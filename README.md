@@ -1,4 +1,4 @@
-Is a short project aout how to generate location using using Google Geocode API.
+Is a short project about how to generate location using using Google Geocode API.
 
 The first program #Google_map_search.py# is use to generate the logitude and latitude of a particular pincode location in India 
 and save it at # generated_location.xlsx #.
